@@ -3,8 +3,8 @@
 module.exports = {
   TOKEN: "",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  ownerID: ["1182360385865666650", ""], 
+  mongodbUri : "mongodb+srv://bilguun5675:<db_password>@shiro.ka6d2zw.mongodb.net/?retryWrites=true&w=majority&appName=shiro",
   spotifyClientId : "",
   spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
@@ -12,7 +12,7 @@ module.exports = {
   embedColor: "#1db954",
   activityName: "YouTube Music", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/SVV76Sjypv",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
